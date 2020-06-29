@@ -1,5 +1,6 @@
 # Guessing-game
-##Simple bash game
+## Simple bash game
 
+The game is pretty simple. User have guess the number of
+file present in current directory.This is an **BASH** game.
 
-In this game user have to guess the number of files present in particular directory.
